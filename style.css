@@ -67,7 +67,6 @@ a[href] {
     header{ 
         background: rgb(119, 22, 22);
         color:white;
-        position:fixed;
     }
 
     a[href] {
