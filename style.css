@@ -53,7 +53,9 @@ a[href] {
 }
 
 @media (max-width: 600px) {
-    
+    .wrap{
+        max-width: 100%;
+    }
     header{ 
         background: rgb(119, 22, 22);
         color:white;
