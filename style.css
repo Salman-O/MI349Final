@@ -63,4 +63,12 @@ a[href] {
     a[href] {
         color:white;
     }
+
+    nav ul {
+        display: none;
+    }
+
+    nav .mobile-trigger {
+        display: inline-block;
+    }
 }
