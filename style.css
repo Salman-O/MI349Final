@@ -5,7 +5,7 @@ html{
 body {
    font-family:monospace;
    margin: 70px;
-   padding: 70px;
+   padding: 50px;
    color: #242424;
    background: rgb(0, 0, 0);
    font-size: x-large;
@@ -31,12 +31,12 @@ img{
 }
 
 section{
-    background:rgb(255, 255, 255);
+    background:#ccc;
     display: flex;
 }
 
 h1 {
-    font-size: 5em;
+    font-size: 4em;
     font-family:fantasy;
     margin: 0;
 }
