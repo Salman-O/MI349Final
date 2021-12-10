@@ -63,4 +63,7 @@ a[href] {
     a[href] {
         color:white;
     }
+    nav ul {
+        display: none;
+    }
 }
