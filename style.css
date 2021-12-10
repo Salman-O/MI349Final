@@ -46,6 +46,10 @@ h2 {
     margin: 0;
 }
 
+.wrapper {
+    display:flex;
+}
+
 p {
     line-height: 1.4em;
 }
