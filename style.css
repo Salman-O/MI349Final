@@ -68,4 +68,8 @@ a[href] {
     a[href] {
         color:white;
     }
+
+    h1 {
+        font-size:medium;
+    }
 }
