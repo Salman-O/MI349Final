@@ -31,7 +31,7 @@ img{
 }
 
 section{
-    background:#ccc;
+    background:rgb(255, 255, 255);
     display: flex;
 }
 
