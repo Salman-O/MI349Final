@@ -25,7 +25,7 @@ article{
 
 img{
     width: 100%;
-    float: left;
+
     margin-right: 10px;
 }
 
@@ -62,7 +62,7 @@ a[href] {
         background: rgb(119, 22, 22);
         color:white;
     }
-    
+
     a[href] {
         color:white;
     }
