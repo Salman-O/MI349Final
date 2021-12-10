@@ -7,8 +7,7 @@ body {
    margin: 40px;
    padding: 40px;
    color: #242424;
-   border-top: 10px solid #242424;
-   background: #fff;
+   background: rgb(0, 0, 0);
 }
 
 header{
