@@ -61,7 +61,7 @@ a[href] {
 @media (max-width: 600px) {
     
     .wrap{
-        max-width: 100%;
+        max-width:fit-content;
     }
 
     header{ 
