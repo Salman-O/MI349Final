@@ -12,8 +12,8 @@ body {
 }
 
 header{
-    color:honeydew;
-    background: rgb(54, 56, 54);
+    color:black;
+    background: rgb(5, 158, 5);
     position: sticky;
     top: 0;
 }
@@ -50,7 +50,7 @@ p {
 }
 
 a[href] {
-    color: red;
+    color: black
 }
 
 @media (max-width: 600px) {
